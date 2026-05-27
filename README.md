@@ -168,7 +168,7 @@ p.note { display: none; }
 
 <div class="media-container">
 
-<h2><span class="yellow">26,May,2026 ベルモールの本屋さん、専門書コーナーにはAIの解説書<br>宇都宮大学の工学部の学生さんにはニーズがありそう</span></h2>
+<h2><span class="yellow">26,May,2026 ベルモールの本屋さん、専門書コーナーにはAIの解説書<br>隣接する宇都宮大学の工学部の学生さんにニーズがありそう</span></h2>
 <a href="20260527_001.JPG" target="_blank"><img src="20260527_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">メインの通りの生垣は、ツツジが満開でした</span></h2>
